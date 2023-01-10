@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome to Logical Programming");
             //FibonacciSeries.fibonacciseries();
-            PerfectNumber.checkperfectnumber();
+            //PerfectNumber.checkperfectnumber();
+            PrimeNumber.CheckprimeNumber();
         }
     }
 }
