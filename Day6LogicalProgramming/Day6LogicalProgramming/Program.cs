@@ -9,7 +9,8 @@
             //PerfectNumber.checkperfectnumber();
             //PrimeNumber.CheckprimeNumber();
             //Reverseanumber.reverseanumber();
-            Couponcode.CouponNumberGenerator();
+            //Couponcode.CouponNumberGenerator();
+            Stopwatch.stopwatch();
         }
     }
 }
