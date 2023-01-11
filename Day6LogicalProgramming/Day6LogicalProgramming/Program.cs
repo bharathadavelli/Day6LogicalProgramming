@@ -8,7 +8,8 @@
             //FibonacciSeries.fibonacciseries();
             //PerfectNumber.checkperfectnumber();
             //PrimeNumber.CheckprimeNumber();
-            Reverseanumber.reverseanumber();
+            //Reverseanumber.reverseanumber();
+            Couponcode.CouponNumberGenerator();
         }
     }
 }
